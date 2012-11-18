@@ -1,0 +1,19 @@
+{
+  "name": "dennis",
+  "version": "0.0.0",
+  "description": "Pure JavaScript DNS library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/dennis.git"
+  },
+  "keywords": [
+    "dns"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "dependencies": {
+    "concentrate": "~0.1.1",
+    "dissolve": "~0.1.1"
+  }
+}
